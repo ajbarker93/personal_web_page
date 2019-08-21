@@ -1,1 +1,5 @@
 theme: jekyll-theme-slate
+title: "Adam J. Barker"
+description: "DPhil Student, University of Oxford"
+#logo: "adambarker.jpg"
+show_downloads: false
