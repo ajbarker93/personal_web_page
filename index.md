@@ -29,4 +29,4 @@ See [Google Scholar](https://scholar.google.com/citations?user=Wbwb3AIAAAAJ&hl=e
 
 See ![alt text]({{ site.url }}/dictionary.png) for a full CV.
 
-I have represented both Oxford and Cambridge Blues in [golf](hhttp://www.cugc.uk/), rowed for Magdalen College 1st VIII and [relaxing](http://www.roadjunky.com/2087/zen-at-work-vipassana-an-indian-meditation-bootcamp/).
+I have represented both Oxford and Cambridge Blues in [golf](hhttp://www.cugc.uk/) and have rowed for Magdalen College 1st VIII.
