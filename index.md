@@ -4,7 +4,7 @@
 
 ## Applying machine learning optimisation methods to the production of a quantum gas
 
-<img align="middle" src="Feedback_Loop.jpg" width="500" hspace="20">
+<img align="middle" src="Feedback_Loop.jpg" width="300" hspace="20">
 
 We apply three machine learning strategies to atomic cooling processes utilized in the production of a Bose-Einstein condensate (BEC) and, for the first time, optimize both laser cooling and evaporative cooling mechanisms simultaneously. We present the results of an evolutionary optimization method (Differential Evolution), a regression method based on non-parametric inference (Gaussian Process regression) and a gradient-based function approximator (Artificial Neural Network). Online optimization is performed using no prior knowledge of the relevant experimental settings. Optimizing these cooling processes results in a factor of four increase in BEC size, as compared to intensive manual optimization and provides an automated approach that maintains close to optimal performance in long-term operation. Furthermore, we show that machine learning techniques can be used to identify the main sources of instability within the apparatus.
 
@@ -12,10 +12,12 @@ We apply three machine learning strategies to atomic cooling processes utilized 
 
 ## Probing multi-photon processes
 
+<img align="middle" src="Fig1Probing.jpg" width="300" hspace="20">
+
 We dress atoms with multiple-radiofrequency (RF) fields and investigate the spectrum of transitions driven by an additional probe field. A complete theoretical description of this rich spectrum is presented, in which we find allowed transitions and determine their amplitudes using the resolvent formalism. Experimentally, we observe transitions up to sixth order in the probe field using RF spectroscopy of Bose–Einstein condensates trapped in single- and multiple-RF-dressed potentials. We find excellent agreement between theory and experiment, including the prediction and verification of previously unobserved transitions, even in the single-RF case.
 
 
-## [Teaching](teaching.md)
+## Teaching
 
 Magdalen College & St Peter’s College, University of Oxford
 Lecturer in Physics Tutored 1st and 2nd year mathematics, electromagnetism and statistics courses. Led development and delivery
