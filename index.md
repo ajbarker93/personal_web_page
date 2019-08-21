@@ -4,17 +4,9 @@
 
 ## Applying machine learning optimisation methods to the production of a quantum gas
 
+<img align="middle" src="Feedback_Loop.jpg" width="500" hspace="20">
+
 We apply three machine learning strategies to atomic cooling processes utilized in the production of a Bose-Einstein condensate (BEC) and, for the first time, optimize both laser cooling and evaporative cooling mechanisms simultaneously. We present the results of an evolutionary optimization method (Differential Evolution), a regression method based on non-parametric inference (Gaussian Process regression) and a gradient-based function approximator (Artificial Neural Network). Online optimization is performed using no prior knowledge of the relevant experimental settings. Optimizing these cooling processes results in a factor of four increase in BEC size, as compared to intensive manual optimization and provides an automated approach that maintains close to optimal performance in long-term operation. Furthermore, we show that machine learning techniques can be used to identify the main sources of instability within the apparatus.
-
-<div style="float: left;">
-<iframe width="230" height="170" src="Feedback_Loop.jpg"; frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div style="float: left; margin-left: 20px;">
-<iframe width="230" height="170" src="Random_Results.jpg";frameborder="0" allowfullscreen></iframe>
-</div>
-<div style="clear:both;"></div>
-
 
 <br/>
 
