@@ -12,7 +12,7 @@ We apply three machine learning strategies to atomic cooling processes utilized 
 
 ## Probing multi-photon processes
 
-<img align="middle" src="Fig1Probing.jpg" width="300" hspace="20">
+<img align="middle" src="Fig1Probing.jpg" width="500" hspace="20">
 
 We dress atoms with multiple-radiofrequency (RF) fields and investigate the spectrum of transitions driven by an additional probe field. A complete theoretical description of this rich spectrum is presented, in which we find allowed transitions and determine their amplitudes using the resolvent formalism. Experimentally, we observe transitions up to sixth order in the probe field using RF spectroscopy of Bose–Einstein condensates trapped in single- and multiple-RF-dressed potentials. We find excellent agreement between theory and experiment, including the prediction and verification of previously unobserved transitions, even in the single-RF case.
 
