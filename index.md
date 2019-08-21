@@ -27,6 +27,6 @@ I read Natural Sciences at Pembroke College, [University of Cambridge](https://w
 
 See [Google Scholar](https://scholar.google.com/citations?user=Wbwb3AIAAAAJ&hl=en) for a list of publications.
 
-See ![alt text]({{ site.url }}/dictionary.png) for a full CV.
+See ![here]({{ site.url }}/CV_AJB.pdf) for a full CV.
 
 I have represented both Oxford and Cambridge Blues in [golf](hhttp://www.cugc.uk/) and have rowed for Magdalen College 1st VIII.
