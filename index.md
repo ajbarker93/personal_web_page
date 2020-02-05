@@ -2,7 +2,9 @@
 
 <br/>
 
-## Applying machine learning optimisation methods to the production of a quantum gas
+## Applying machine learning optimisation methods to the production of a quantum gas (collaboration with Google DeepMind)
+
+Now accepted for publication in Machine Learning: Science and Technology! (https://arxiv.org/abs/1908.08495)
 
 <img align="middle" src="Feedback_Loop.jpg" width="300" hspace="20">
 
@@ -10,7 +12,19 @@ We apply three machine learning strategies to atomic cooling processes utilized 
 
 <br/>
 
+## Inelastic losses in radio-frequency dressed mixtures
+
+Now available on the arXiv (https://arxiv.org/abs/1912.02737)
+
+<img align="middle" src="Fig1Probing.jpg" width="500" hspace="20">
+
+We dress atoms with multiple-radiofrequency (RF) fields and investigate the spectrum of transitions driven by an additional probe field. A complete theoretical description of this rich spectrum is presented, in which we find allowed transitions and determine their amplitudes using the resolvent formalism. Experimentally, we observe transitions up to sixth order in the probe field using RF spectroscopy of Bose–Einstein condensates trapped in single- and multiple-RF-dressed potentials. We find excellent agreement between theory and experiment, including the prediction and verification of previously unobserved transitions, even in the single-RF case.
+
+<br/>
+
 ## Probing multi-photon processes
+
+Now published in New Journal of Physics (https://iopscience.iop.org/article/10.1088/1367-2630/ab2f60)
 
 <img align="middle" src="Fig1Probing.jpg" width="500" hspace="20">
 
@@ -35,7 +49,6 @@ Machine Learning and Quantum Technology summer lecture series. UESTC.
 2018 Invited seminar talk, Newcastle University
 2017 Poster presentation at Engineering Quantum Systems, Austria
 2017 Poster presentation at Frontiers of 2D Quantum Systems, Italy
-
 
 <br/>
 ### Other activities
